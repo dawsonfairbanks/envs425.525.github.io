@@ -1,4 +1,4 @@
-![Logo Keys to Success](https://dawsonfairbanks.github.io/envs_425_525_iCourse/images/textbooks_materials.png)
+![Logo Keys to Success](https://dawsonfairbanks.github.io/envs_425_525_iCourse/images/keys_success.png)
 
 ### Where and when do we meet as a class
 
