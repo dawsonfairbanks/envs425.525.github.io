@@ -1,5 +1,5 @@
 ![Keys To Success](https://github.com/dawsonfairbanks/envs_425_525_iCourse/blob/master/keys_success.png)
-
+# Keys to Success <br>
 ### Where and when do we meet as a class
 We will be using Desire2Learn (D2L), which is the program you are currently logged into. 
 You will find your readings, videos, discussions, assignments, and quizzes here.
