@@ -1,6 +1,7 @@
-![image](https://dawsonfairbanks.github.io/envs_425_525_iCourse/keys_success.png)
-# Keys to Success <br>
+![Logo Keys to Success](https://dawsonfairbanks.github.io/envs_425_525_iCourse/images/textbooks_materials.png)
+
 ### Where and when do we meet as a class
+
 We will be using Desire2Learn (D2L), which is the program you are currently logged into. 
 You will find your readings, videos, discussions, assignments, and quizzes here.
 
@@ -63,5 +64,3 @@ issue submitting your assignments in D2L, please let me know and I am happy to h
 troubleshoot. You can also get in touch with 
 [24/7 support](https://it.arizona.edu/service/247-it-support) if you're having a 
 technical or connection issues.
-
-
