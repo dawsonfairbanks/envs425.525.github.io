@@ -1,4 +1,4 @@
-![image](keys_success.png)
+![image](https://dawsonfairbanks.github.io/envs_425_525_iCourse/keys_success.png)
 # Keys to Success <br>
 ### Where and when do we meet as a class
 We will be using Desire2Learn (D2L), which is the program you are currently logged into. 
