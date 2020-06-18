@@ -54,7 +54,7 @@ reading, writing, listening, thinking, and responding.
 
 You will be able to access your grades via D2L Grades, via the “Grades” function. 
 Please feel free to ask any questions at any point or let me know if you have 
-any concerns about this.
+any concerns about this. <b> I do not accept assignments via email. </b>
 
 ### How do I access my grades?
 
