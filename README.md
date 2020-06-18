@@ -11,23 +11,23 @@ From the Content link in the top menu bar, you will find different modules holdi
 material that you will complete each week of the course. So for example, in Module 1, 
 you will find the readings, assignments, and discussions that you need to complete by the 
 due dates listed for that module. A detailed breakdown of the course schedule can be found 
-in the course syllabus. Pay attention to this syllabus and it is your responsibility as a 
+in the course syllabus. Pay attention to this syllabus and <b>it is your responsibility as a 
 student to turn in assignments at their specified due dates. I suggest entering in 
 assignment due dates as well as quizzes and exams into your calendar at the beginning 
-of the semester.
+of the semester</b>.
 
 ### What is the policy on due dates and late work?
 
 As this is a fully online class and the location is flexible, you must be available for 
 the duration of the course. I expect that you will log into the system at least a few
- times a week (preferably every day or every other day) to engage in this workshop. This 
+ times a week (preferably every day or every other day) to engage in this course. This 
  will also help keep you connected to what is going on in the course. It can be easy to 
  misjudge how much time has passed since you last checked into an online course; but 
  by getting into a routine of checking in (about) daily, you'll feel more connected to 
  the course and engaged in what is going on. Participation is an expectation. Because 
- you are allowed to drop one checkpoint assessment, I do not offer make up assessments 
+ you are allowed to drop one checkpoint assessment, <b>I do not offer make up assessments 
  or assignments for extra credit. You are responsible for meeting all deadlines and 
- assessments outlined in the syllabus. Assignments will not be accepted late under any 
+ assessments outlined in the syllabus</b>. Assignments will not be accepted late under any 
  circumstances, they may however, be turned in early. Missed assessments may not be 
  made up except for extraordinary circumstances.
 
