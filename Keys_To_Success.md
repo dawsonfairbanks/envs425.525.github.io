@@ -1,4 +1,4 @@
-![Logo Keys to Success]https://github.com/dawsonfairbanks/envs425.525.github.io/blob/master/keys_success.png 
+![Logo Keys to Success](https://github.com/dawsonfairbanks/envs425.525.github.io/blob/master/keys_success.png)
 ## Where and when do we meet as a class
 
 We will be using Desire2Learn (D2L), which is the program you are currently logged into. 
