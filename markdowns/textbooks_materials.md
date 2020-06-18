@@ -1,6 +1,5 @@
-# Textbooks and Materials
-
-#Readings, Lectures and Videos
+![image](https://dawsonfairbanks.github.io/envs_425_525_iCourse/images/textbooks_materials.png)
+## Readings, Lectures and Videos
 
 There is no required textbook for this class. All readings and external content 
 will be provided for you, either within the course as a downloadable file 
@@ -9,6 +8,6 @@ will be provided for you, either within the course as a downloadable file
  that is available from the [University of Arizona Library Web Page](https://new.library.arizona.edu/). 
  Select PDF chapters will be made available on D2L.
  
-# Required Materials
+## Required Materials
 
 You must have Internet access for the duration of the course. In addition, it is strongly recommended that you have access to a computer (laptop or desktop) to complete assignments and activities. While a phone or tablet may be good for quick check-ins, they are not always ideal for completing your coursework.
